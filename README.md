@@ -74,8 +74,8 @@ I'm **Prafful Verma**, a software developer from **India** passionate about back
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prafful-Verma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prafful-Verma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&langs_count=8" height="180" />
+<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prafful-Verma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&count_private=true" height="180" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prafful-Verma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&langs_count=8" height="180" /> -->
 
 <br/><br/>
 
@@ -83,7 +83,7 @@ I'm **Prafful Verma**, a software developer from **India** passionate about back
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prafful-Verma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="90%" />
+<!--<img src="https://github-profile-trophy-git-masterrstaa-rickstaa.vercel.app/?username=Prafful-Verma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="90%" />-->
 
 </div>
 
