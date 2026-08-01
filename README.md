@@ -240,16 +240,16 @@ Documented DSA journey with 18+ commits — covering patterns from Arrays to Gra
 
 ## 🎓 Education
 
-**B.Tech** — *[ADD YOUR COLLEGE/UNIVERSITY]*  
+**B.Tech** — *Jaypee Institute of Information Technology*  
 *2022 Graduate*
-
+<!--
 ---
 
 ## 📜 Certifications
 
-<!-- [ADD YOUR CERTIFICATIONS HERE] -->
+ [ADD YOUR CERTIFICATIONS HERE] 
 - **[ADD CERTIFICATION NAME]** — *[ADD PLATFORM]*
-
+-->
 ---
 
 ## 🤝 Let's Connect
@@ -272,6 +272,9 @@ Documented DSA journey with 18+ commits — covering patterns from Arrays to Gra
 ---
 
 ## 💌 A Note to Recruiters
+I am gonna make it.
+
+// I am a student of Data Structure and Algorithms.
 
 <div align="center">
 
@@ -289,7 +292,7 @@ If you're looking for someone who:
 
 **Then I'd love to connect.** Let's build something extraordinary together. 🚀
 
-📧 **praffulrakeshverma@gmail.com** | 💼 **prafful-verma**
+📧 **praffulrakeshverma@gmail.com** | 💼 <a href="https://www.linkedin.com/in/prafful-verma-365702182/">**prafful-verma**</a>
 
 </div>
 
